@@ -18,7 +18,17 @@ client.on('message', msg => {
                         "Kitten",
                         "kittens",
 												"CatsBeingCats",
-												"Catswithjobs"
+												"Catswithjobs",
+												"JellyBeanToes",
+												"CatsStandingUp",
+												"catsonglass",
+												"CatsInSinks",
+												"tuckedinkitties",
+												"StartledCats",
+												"MildlyStartledCats",
+												"catpictures",
+												"CatCircles",
+												"Floof"
                         ]
 
       const randomSubReddit = subReddit[Math.floor(Math.random() * subReddit.length)];
@@ -62,4 +72,4 @@ client.on('message', msg => {
   }
 });
 
-client.login('TOKEN');
+client.login('ODE2MTk1NTI0NTA2OTQzNTU4.YD3bUQ.4GGXAlbmc6hSutIF00yNLvqge3Y');
